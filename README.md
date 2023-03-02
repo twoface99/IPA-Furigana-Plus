@@ -1,2 +1,4 @@
-# IPA-Furigana-Plus
-Continuation of IPA Furigana (Furigana Injection Plus Plus) to keep it updated and available.
+FuriganaInjectorPlusPlus
+========================
+
+A browser extension allowing the injection of phonetic annotations for Japanese text (furigana) on the fly.
